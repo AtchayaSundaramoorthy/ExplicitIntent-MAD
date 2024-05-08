@@ -28,8 +28,8 @@ Step 6: Working with the manifest File
 ```
 /*
 Program to print the text “ExplicitIntent”.
-Developed by:Ranjeeth B K
-Registeration Number :212222040132
+Developed by:ATCHAYA S
+Registeration Number :212222040021
 */
 ```
 #In Mainactivity,java
